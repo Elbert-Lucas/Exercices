@@ -12,7 +12,7 @@ public class Exercise02 {
     }
     public static int[] reverseArray (int [] arrayNumber){
         /*
-        This method reverse a array
+        This method reverse an array
          */
         int [] reversedArray = new int[arrayNumber.length];
         int indexDec = arrayNumber.length - 1;

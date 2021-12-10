@@ -1,4 +1,4 @@
-public class exercise05 {
+public class Exercise05 {
     public static void main(String[] args) {
         int [] fisrtArray = {1,2,3};
         int [] secondArray = {1,2,3};

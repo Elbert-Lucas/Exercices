@@ -7,7 +7,7 @@ public class Exercise01 {
 
     public static char[] createArray(int quantity, char letra){
         /*
-        This method receive a int and a char variable, and create a array.
+        This method receive an int and a char variable, and create an array.
         The array's size is the int var, and the content is the char.
         */
         char [] result = new char[quantity];

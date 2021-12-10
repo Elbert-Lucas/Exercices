@@ -28,5 +28,5 @@ Entrada do método ([5,4,3,2,5], 5,3), Resultado do método: [4,2]
     Entrada do método ([1, 2, 3, 4, 5], 2), Resultado do método: [[1, 2], [3, 4], [5]]
 
 
-8) Implemente um método que encontre os valores comuns entre dois arrays.
+8) Implemente um méto do que encontre os valores comuns entre dois arrays.
    Entrada do método ([6, 8], [8, 9]), Resultado do método: [8]

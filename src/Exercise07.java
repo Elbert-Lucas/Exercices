@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class SubdivideArray {
+public class Exercise07 {
     public static void main(String[] args) {
         int [] inputArray = {1, 2, 3, 4, 5};
         int [][] outputArray = subdivideArray(inputArray, 2);

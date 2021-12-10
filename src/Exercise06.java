@@ -1,4 +1,4 @@
-public class exercise06 {
+public class Exercise06 {
     public static void main(String[] args) {
         int [][] inputAray = {{1, 2}, {3}, {4, 5}};
         int [] outputArray = simplifyArray(inputAray);
