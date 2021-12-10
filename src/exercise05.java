@@ -1,11 +1,23 @@
 public class exercise05 {
     public static void main(String[] args) {
-        int []a = {1,2,3};
+        int [] fisrtArray = {1,2,3};
+        int [] secondArray = {1,2,3};
 
-        noRepeat(a);
+        boolean result = isEqualArrays(fisrtArray,secondArray);
+        System.out.println(result);
     }
-    public static int[] noRepeat(int[] inputArray){
+    public static boolean isEqualArrays(int[] fisrtArray, int[] secondArray ){
+        /*
+            This method compares two arrays and return the bool of the equality.
+            The order of the values influence on result
+         */
+        if (fisrtArray.length != secondArray.length){
+            return false;
+        }
 
-        return inputArray;
+        for (int index = 0; index < fisrtArray.length; index++){
+           if (fisrtArray[index] != secondArray[index]) return false;
+        }
+        return true;
     }
 }

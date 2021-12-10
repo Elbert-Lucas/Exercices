@@ -16,21 +16,17 @@
 Entrada do método ([5,4,3,2,5], 5,3), Resultado do método: [4,2]
 
 
-5) Implemente um método que retorne um array, sem valores duplicados.
-   Entrada do método ([1,2,3,3,2,4,5,4,7,3]), Resultado do método: [1,2,3,4,5,7]
-
-
-6) Implemente um método que compare a igualdade de dois arrays e retorne um valor booleano.
+5) Implemente um método que compare a igualdade de dois arrays e retorne um valor booleano.
    Entrada do método ([1,2,3,4],[1,2,3,4]), Resultado do método: true
 
 
-7) Implemente um método que remova os aninhamentos de um array de arrays para um array unico.
+6)Implemente um método que remova os aninhamentos de um array de arrays para um array unico.
     Entrada do método ([1, 2, [3], [4, 5]]), Resultado do método: [1, 2, 3, 4, 5]
 
 
-8) Implemente um método divida um array por uma quantidade passada por parâmetro.
+7) Implemente um método divida um array por uma quantidade passada por parâmetro.
     Entrada do método ([1, 2, 3, 4, 5], 2), Resultado do método: [[1, 2], [3, 4], [5]]
 
 
-9) Implemente um método que encontre os valores comuns entre dois arrays.
+8) Implemente um método que encontre os valores comuns entre dois arrays.
    Entrada do método ([6, 8], [8, 9]), Resultado do método: [8]
